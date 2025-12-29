@@ -1,66 +1,29 @@
-📊 COVID-19 Data Analysis (India)
-🔍 Project Overview
+# 📊 COVID-19 Data Analysis (India)
 
+## 🔍 Project Overview
 This project analyzes COVID-19 data in India using Python to understand:
+- Spread of COVID-19 across states
+- Confirmed, recovered, and death trends
+- Vaccination progress state-wise
+- Time-based growth patterns
 
-Spread of COVID-19 across states
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-Confirmed, recovered, and death trends
+## 📁 Dataset
+The dataset contains COVID-19 related data for India, used to analyze the spread and impact of the pandemic.
 
-Vaccination progress state-wise
+- `covid_19_india.csv` – State-wise COVID-19 confirmed, recovered, and death cases  
+- `state_wise_vaccination.csv` – State-wise vaccination data  
 
-Time-based growth patterns
 
-🛠️ Tools & Technologies
+## 📌 Key Insights
+- Identified states with the highest confirmed cases
+- Observed recovery trends improving over time
+- Visualized vaccination growth across states
+- Analyzed time-based COVID-19 growth patterns
 
-Python
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
-
-📁 Dataset
-
-covid_19_india.csv – COVID cases data
-
-covid_vaccine_statewise.csv – Vaccination data
-
-Source: Kaggle
-
-📈 Key Analysis Performed
-
-State-wise confirmed, recovered, and death cases
-
-Daily and cumulative trend analysis
-
-Top affected states comparison
-
-Vaccination coverage analysis
-
-Visualizations for better insights
-
-📌 Key Insights
-
-COVID cases showed rapid growth during peak waves
-
-Highly populated states were most affected
-
-Vaccination significantly increased recovery trends
-
-Death rate remained lower compared to confirmed cases
-
-📂 How to Run
-
-Clone this repository
-
-Open Covid19 data analysis project.ipynb
-
-Run all cells sequentially
-
-✨ Author
-
-Anishka Dixit
